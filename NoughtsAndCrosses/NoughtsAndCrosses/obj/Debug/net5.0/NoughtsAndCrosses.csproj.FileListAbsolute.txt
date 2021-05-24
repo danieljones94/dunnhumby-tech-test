@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\NoughtsAndCrosses.exe
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\NoughtsAndCrosses.deps.json
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\NoughtsAndCrosses.runtimeconfig.json
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\NoughtsAndCrosses.runtimeconfig.dev.json
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\NoughtsAndCrosses.dll
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\ref\NoughtsAndCrosses.dll
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\net5.0\NoughtsAndCrosses.pdb
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.csprojAssemblyReference.cache
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.AssemblyInfo.cs
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.dll
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\ref\NoughtsAndCrosses.dll
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.pdb
+C:\Users\User\source\repos\dunnhumby-tech-test\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\net5.0\NoughtsAndCrosses.genruntimeconfig.cache
